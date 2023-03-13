@@ -1,6 +1,2 @@
-Thanks for downloading this template!
-
-Template Name: Impact
-Template URL: https://bootstrapmade.com/impact-bootstrap-business-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+## A website advocating using green products and taking public transportation. 
+We are SCP, a student organization promoting sustainable development in Taiwan.
